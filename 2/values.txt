@@ -1,0 +1,5 @@
+lpm:800
+intvl:50
+sm:2
+dm:5
+autoUPD:false
